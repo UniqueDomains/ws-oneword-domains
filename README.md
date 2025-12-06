@@ -21,18 +21,18 @@ If you want to search & filters the complete database of [.WS one word domains](
 
 | Domain        | Status    | Attract. | Demand | Length | Registrar        | Created          | Expires |
 | ------------- | --------- | -------- | ------ | ------ | ---------------- | ---------------- | ------- |
-| ane.ws        | available | 68       | 12%    | 3      |                  |                  |         |
+| ane.ws        | premium   | 68       | 12%    | 3      |                  |                  |         |
 | centesimal.ws | available | 58       | 1%     | 10     |                  |                  |         |
 | century.ws    | available | 66       | 17%    | 7      |                  |                  |         |
 | chiliad.ws    | available | 62       | 2%     | 7      |                  |                  |         |
-| cipher.ws     | available | 86       | 29%    | 6      |                  |                  |         |
-| clv.ws        | available | 66       | 10%    | 3      |                  |                  |         |
-| clx.ws        | available | 60       | 8%     | 3      |                  |                  |         |
+| cipher.ws     | premium   | 86       | 29%    | 6      |                  |                  |         |
+| clv.ws        | premium   | 66       | 10%    | 3      |                  |                  |         |
+| clx.ws        | premium   | 60       | 8%     | 3      |                  |                  |         |
 | clxxx.ws      | available | 60       | 1%     | 5      |                  |                  |         |
-| cxl.ws        | available | 60       | 7%     | 3      |                  |                  |         |
+| cxl.ws        | premium   | 60       | 7%     | 3      |                  |                  |         |
 | cxlv.ws       | available | 60       | 2%     | 4      |                  |                  |         |
-| cxv.ws        | available | 60       | 4%     | 3      |                  |                  |         |
-| cxx.ws        | available | 60       | 9%     | 3      |                  |                  |         |
+| cxv.ws        | premium   | 60       | 4%     | 3      |                  |                  |         |
+| cxx.ws        | premium   | 60       | 9%     | 3      |                  |                  |         |
 | cxxv.ws       | available | 60       | 1%     | 4      |                  |                  |         |
 | cxxx.ws       | available | 60       | 3%     | 4      |                  |                  |         |
 | cxxxv.ws      | available | 60       | 1%     | 5      |                  |                  |         |
@@ -40,14 +40,14 @@ If you want to search & filters the complete database of [.WS one word domains](
 | decade.ws     | available | 82       | 9%     | 6      |                  |                  |         |
 | deuce.ws      | available | 66       | 8%     | 5      |                  |                  |         |
 | dozen.ws      | available | 82       | 9%     | 5      |                  |                  |         |
-| eleven.ws     | available | 88       | 30%    | 6      |                  |                  |         |
+| eleven.ws     | premium   | 88       | 30%    | 6      |                  |                  |         |
 | eleventh.ws   | available | 62       | 5%     | 8      |                  |                  |         |
 | fifteen.ws    | available | 88       | 13%    | 7      |                  |                  |         |
 | fifteenth.ws  | available | 76       | 2%     | 9      |                  |                  |         |
-| flat.ws       | available | 116      | 21%    | 4      |                  |                  |         |
+| flat.ws       | premium   | 116      | 21%    | 4      |                  |                  |         |
 | fourteenth.ws | available | 76       | 2%     | 10     |                  |                  |         |
-| grand.ws      | available | 84       | 24%    | 5      |                  |                  |         |
-| hundred.ws    | available | 88       | 13%    | 7      |                  |                  |         |
+| grand.ws      | premium   | 84       | 24%    | 5      |                  |                  |         |
+| hundred.ws    | premium   | 88       | 13%    | 7      |                  |                  |         |
 | hundredth.ws  | available | 76       | 1%     | 9      |                  |                  |         |
 | longdozen.ws  | available | 62       | 1%     | 10     |                  |                  |         |
 | nineteen.ws   | available | 84       | 7%     | 8      |                  |                  |         |
