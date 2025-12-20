@@ -40,14 +40,14 @@ If you want to search & filters the complete database of [.WS one word domains](
 | decade.ws     | available | 82       | 9%     | 6      |                  |                  |         |
 | deuce.ws      | available | 66       | 7%     | 5      |                  |                  |         |
 | dozen.ws      | available | 82       | 9%     | 5      |                  |                  |         |
-| eleven.ws     | premium   | 88       | 29%    | 6      |                  |                  |         |
+| eleven.ws     | premium   | 88       | 28%    | 6      |                  |                  |         |
 | eleventh.ws   | available | 62       | 5%     | 8      |                  |                  |         |
 | fifteen.ws    | available | 88       | 11%    | 7      |                  |                  |         |
 | fifteenth.ws  | available | 76       | 2%     | 9      |                  |                  |         |
-| flat.ws       | premium   | 116      | 21%    | 4      |                  |                  |         |
+| flat.ws       | premium   | 116      | 20%    | 4      |                  |                  |         |
 | fourteenth.ws | available | 76       | 2%     | 10     |                  |                  |         |
-| grand.ws      | premium   | 84       | 24%    | 5      |                  |                  |         |
-| hundred.ws    | premium   | 88       | 13%    | 7      |                  |                  |         |
+| grand.ws      | premium   | 84       | 23%    | 5      |                  |                  |         |
+| hundred.ws    | premium   | 88       | 12%    | 7      |                  |                  |         |
 | hundredth.ws  | available | 76       | 1%     | 9      |                  |                  |         |
 | longdozen.ws  | available | 62       | 1%     | 10     |                  |                  |         |
 | nineteen.ws   | available | 84       | 7%     | 8      |                  |                  |         |
@@ -88,9 +88,9 @@ If you want to search & filters the complete database of [.WS one word domains](
 
 | Name     | Total Number | Extract                                                             | Full Database                                                                                                                              |
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| Expired  | 30,756       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
-| Expiring | 63,843       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 5,598,573    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| Expired  | 30,719       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
+| Expiring | 64,044       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
+| All      | 5,599,086    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
