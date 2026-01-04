@@ -39,15 +39,15 @@ If you want to search & filters the complete database of [.WS one word domains](
 | cypher.ws     | resell    | 58       | 28%    | 6      | Domain Cost Club | 27/01/2025 03:01 |         |
 | decade.ws     | available | 82       | 97%    | 6      |                  |                  |         |
 | deuce.ws      | available | 66       | 7%     | 5      |                  |                  |         |
-| dozen.ws      | available | 82       | 9%     | 5      |                  |                  |         |
-| eleven.ws     | premium   | 88       | 28%    | 6      |                  |                  |         |
+| dozen.ws      | available | 82       | 7%     | 5      |                  |                  |         |
+| eleven.ws     | premium   | 88       | 27%    | 6      |                  |                  |         |
 | eleventh.ws   | available | 62       | 5%     | 8      |                  |                  |         |
 | fifteen.ws    | available | 88       | 11%    | 7      |                  |                  |         |
 | fifteenth.ws  | available | 76       | 2%     | 9      |                  |                  |         |
 | flat.ws       | premium   | 116      | 20%    | 4      |                  |                  |         |
 | fourteenth.ws | available | 76       | 2%     | 10     |                  |                  |         |
-| grand.ws      | premium   | 84       | 23%    | 5      |                  |                  |         |
-| hundred.ws    | premium   | 88       | 12%    | 7      |                  |                  |         |
+| grand.ws      | premium   | 84       | 22%    | 5      |                  |                  |         |
+| hundred.ws    | premium   | 88       | 20%    | 7      |                  |                  |         |
 | hundredth.ws  | available | 76       | 1%     | 9      |                  |                  |         |
 | longdozen.ws  | available | 62       | 1%     | 10     |                  |                  |         |
 | nineteen.ws   | available | 84       | 7%     | 8      |                  |                  |         |
@@ -90,7 +90,7 @@ If you want to search & filters the complete database of [.WS one word domains](
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 30,896       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 64,845       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 5,598,711    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| All      | 5,598,419    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
